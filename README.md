@@ -33,7 +33,7 @@ To run this project, the following dependencies are required:
 Install the required libraries using pip:
 ```bash
 pip install tensorflow numpy scikit-learn matplotlib opencv-python
-
+```
 
 ## Dataset
 
